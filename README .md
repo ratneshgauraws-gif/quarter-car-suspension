@@ -44,8 +44,8 @@ Natural frequency = 1.42 Hz. Critical damping = 4,472 Ns/m. The base case (c = 1
 - On 5 m road waves, the worst speed is about 26 km/h.
 - Trade-off: a soft damper gives a gentle first impact but keeps bouncing; a stiff damper settles fast but passes harsh jolts to the body. Above about 2 Hz (1.42 x √2) the suspension isolates the body from the road, and there softer damping performs better.
 
-![Resonance](figures/4_resonance.png)
-![Speed bump](figures/3_speed_bump.png)
+![Resonance](4_resonance.png)
+![Speed bump](3_speed_bump.png)
 
 ## How to run
 
